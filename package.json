@@ -1,5 +1,5 @@
 {
-  "name": "js_scripts_template",
+  "name": "testing",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eki213/js_scripts_template.git"
+    "url": "git+https://github.com/Eki213/testing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Eki213/js_scripts_template/issues"
+    "url": "https://github.com/Eki213/testing/issues"
   },
-  "homepage": "https://github.com/Eki213/js_scripts_template#readme",
+  "homepage": "https://github.com/Eki213/testing#readme",
   "description": "",
   "devDependencies": {
     "@babel/core": "^7.28.5",
